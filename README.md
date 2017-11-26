@@ -4,7 +4,7 @@ Slides/presentaciones y código fuente de todas las presentaciones de nuestros e
 ## Android Talks
 
 ||||
-|---|---|
+|---|---|---|
 | Expositor | Tema | Link slides |
 |---|---|---|
 |Nombre|tema|link slides|
@@ -21,7 +21,7 @@ Slides/presentaciones y código fuente de todas las presentaciones de nuestros e
 ## Android Labs
 
 |||
-
+|---|---|
 | Expositor | Tema | Link slides |
 |---|---|
 |Nombre|tema|link slides|
