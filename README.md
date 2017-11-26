@@ -30,8 +30,8 @@ Slides/presentaciones y código fuente de todas las presentaciones de nuestros e
 
 ## Android Labs
 
-|||
-|---|---|
+||||
+|---|---|---|
 | Expositor | Tema | Link slides |
 | Santiago Carrillo | *Integrando un API desde Android* | link |
 | Santiago Carrillo | *Google Maps en Android* | link |
