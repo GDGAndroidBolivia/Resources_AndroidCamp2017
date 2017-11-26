@@ -33,15 +33,25 @@ Slides/presentaciones y código fuente de todas las presentaciones de nuestros e
 |||
 |---|---|
 | Expositor | Tema | Link slides |
-|---|---|
-|Nombre|tema|link slides|
-|Nombre|tema|link slides|
-|Nombre|tema|link slides|
-|Nombre|tema|link slides|
+| Santiago Carrillo | *Integrando un API desde Android* | link |
+| Santiago Carrillo | *Google Maps en Android* | link |
+| Dan Ardelean | *Xamarin.Forms a different approach to native crossplatform mobile development* | link |
+| Julio Silva | *Integra Firebase y Typescript para Android con NativeScript* | link |
+| Carlos Collazos | *Como empezar a diseñar tu App (Wireframes)* | link |
 | Andrés Jordán | *Diseñando mi app Android con Adobe XD* | https://drive.google.com/file/d/1EAFob3wYKWfqQ4_ToQmRtCpPLOtkygg1/view |
-|Nombre|tema|link slides|
-|Nombre|tema|link slides|
-|Nombre|tema|link slides|
-|Nombre|tema|link slides|
-|Nombre|tema|link slides|
-|Nombre|tema|link slides|
+| Daniel Ojalvo | *Manejo de Sensores en Android* | link |
+| Gustavo Lizárraga | *Kotlin en acción* | https://github.com/Gusn8/CodeLab-Kotlin |
+| Eyvind Tiñini | *Aprendiendo sobre Servicios Android* | link |
+| Ariel Gabriel | *Deshaciendo las Apps* | link |
+| Victor Rodas | *Introducción a la Realidad Virtual y Realidad Aumentada* | link |
+| Vladimir Castro | *Mecanismos de intercomunicación con bases de datos remotas* | link |
+| Melvin Callisaya | *Adapter de Firebase para un RecyclerView* | link |
+
+## Study Jam
+
+* Instructores:
+> Gustavo Lizárraga
+> Marcelo Torrez
+> Alan Ortiz
+
+Repositorio con todos los demos: https://github.com/GDGAndroidBolivia/StudyJam-AndroidCamp
