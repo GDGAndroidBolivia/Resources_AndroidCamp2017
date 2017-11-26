@@ -5,7 +5,7 @@ Slides/presentaciones y código fuente de todas las presentaciones de nuestros e
 
 ||||
 |---|---|---|
-| **Expositor** | **Tema** | **Link slides** |
+| **Expositor** | **Título** | **Slides** |
 | Nicolás Bianchi | *UX y Material Design* | link |
 | Nicolás Bianchi |tema| link |
 | Santiago Carrillo | *Primera Aplicación Android* | link |
@@ -32,7 +32,7 @@ Slides/presentaciones y código fuente de todas las presentaciones de nuestros e
 
 ||||
 |---|---|---|
-| Expositor | Tema | Link slides |
+| **Expositor** | **Título** | **Link slides/repositorio** |
 | Santiago Carrillo | *Integrando un API desde Android* | link |
 | Santiago Carrillo | *Google Maps en Android* | link |
 | Dan Ardelean | *Xamarin.Forms a different approach to native crossplatform mobile development* | link |
